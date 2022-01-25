@@ -1,0 +1,132 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section, .container{
+    width:100%;
+}
+
+#navbarNav{
+    transform: translate(350px);
+}
+.navigation{
+    background-color: #F0FFF0;
+    padding:10px 10px;
+}
+.logo img{
+    width:200px;
+}
+#navbarNav ul li{
+    margin-left: 30px;
+}
+.sign-btn{
+    padding: 10px 30px !important;
+    background-color: #20AE6E;
+    border-radius: 20px;
+    color:white !important;
+}
+#banner{
+    background-color: #F0FFF0;
+}
+.banner{
+    padding: 50px 50px;
+}
+.banner-img img{
+    width:100%;
+}
+.banner-describe h1{
+    font-weight: 700;
+}
+.banner-describe h6{
+    color:#FD551E;
+}
+.banner-describe p{
+    color:gray;
+}
+.sigle-describe{
+    color:#21B573;
+}
+.get-btn{
+    padding: 10px 30px;
+    border-radius: 20px;
+    background-color: #21B573;
+    color: white;
+    width:155px;
+    margin-top: 30px !important;
+}
+
+.ad{
+    padding:50px 50px;
+    padding-right: 20px;
+}
+.ad1, .ad3, .ad4{
+    text-align: center;
+    padding: 40px 50px;
+    background-color: #F8FFFB;
+    padding-left: 30px !important;
+}
+#ad2{
+    text-align: center;
+    padding: 40px 50px;
+    box-shadow: 0px 5px   5px lightgrey;
+    border-radius: 10px;
+}
+.ad1 img, .ad2 img, .ad3 img, .ad4 img{
+        width:70px;
+        margin-bottom: 30px;
+}
+
+#courses{
+    margin-top: 50px;
+}
+.course{
+    padding: 50px 25px;
+}
+#courses h1{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.course-1, .course-2,.course-3{
+    padding: 30px 20px;
+   background-color: white;
+    box-shadow: 0px 5px 3px 7px gainsboro;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.course-1 img, .course-2 img, .course-3 img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.buy-btn{
+    padding: 7px 30px;
+    border-radius: 20px;
+    background-color: #21B573;
+    color: white;
+    width:155px;
+    margin-top: 20px !important;
+}
+.calendar{
+    margin-top: 20px;
+}
+.calendar img{
+    width:20px;
+    margin-top: 10px;
+    
+}
+#testimonial{
+    margin-top: 40px;
+}
+#testimonial h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.testimonial{
+    padding: 50px 40px;
+}
+.testimonial p{
+    text-align: left;
+    font-size: 18px;
+}
+.testimonial img{
+    width:120px;
+    transform: translateX(190px);
+}
